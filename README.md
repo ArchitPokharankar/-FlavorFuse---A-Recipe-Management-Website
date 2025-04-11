@@ -4,7 +4,7 @@
 ---
 
 ## 🌐 Live Preview  
-🚀 [Coming Soon]
+🚀 Word document with screenshots provided
 
 ---
 
