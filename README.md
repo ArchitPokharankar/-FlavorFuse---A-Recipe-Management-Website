@@ -4,6 +4,10 @@
 ---
 
 ## 🌐 Live Preview  
+![Homepage](https://raw.githubusercontent.com/ArchitPokharankar/FlavorFuse---A-Recipe-Management-Website/main/Homepage.png)
+
+![About Us](https://raw.githubusercontent.com/ArchitPokharankar/FlavorFuse---A-Recipe-Management-Website/main/About%20us.png)
+
 🚀 Word document with screenshots provided
 
 ---
